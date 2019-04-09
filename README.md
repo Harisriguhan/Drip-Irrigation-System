@@ -39,4 +39,4 @@ The main component of the setup is the Nodemcu ESP8266 module. All the other har
 
 Github : https://github.com/Harisriguhan/Drip-Irrigation-System
 
-Youtube : https://www.youtube.com/watch?v=-hb-8XGw5ZU
+Youtube : https://www.youtube.com/watch?v=pmvjlaZf0Ls&feature=youtu.be
