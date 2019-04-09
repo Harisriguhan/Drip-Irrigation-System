@@ -25,7 +25,7 @@ MISCELLANEOUS :
 TOTAL COST OF COMPONENTS :- RS.1800- RS.2000
 
 # System Overview
-The main component of the setup is the Nodemcu ESP8266 module. All the other hardware components are connected to the Nodemcu. The board is programmed in Arduino IDE and uses the ESP8266, Adafruit MQTT libraries. These libraries have been added to the Arduino IDE. The MPU6050 module with gyroscope and accelerometer is directly connected to the Nodemcu using a micro USB cable. 
+The main component of the setup is the Nodemcu ESP8266 module. All the other hardware components are connected to the Nodemcu. The board is programmed in Arduino IDE and uses the ESP8266, Adafruit MQTT libraries. These libraries have been added to the Arduino IDE. 
 
 # Programming NodeMCU and Setting Up Adafruit Dashboard
 * Import Adafruit Library to the Arduino IDE
